@@ -1,2 +1,2 @@
 #!/bin/bash
--m chmod 751 my_dir
+-m --my_dir chmod 751 my_dir
