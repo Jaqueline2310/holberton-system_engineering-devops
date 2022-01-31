@@ -1,4 +1,2 @@
 #!/bin/bash
-<< eof > \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
-Best School
-eof
+echo "Best School" > \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)\n
