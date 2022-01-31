@@ -1,2 +1,2 @@
 #!/bin/bash
-grep: -n 3
+awk ‘{if (NR == 3) imprime $ 0}’ iacta
