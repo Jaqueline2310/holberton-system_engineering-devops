@@ -1,2 +1,2 @@
 #!/bin/bash
-awk: $> awk '{if (NR == 3) imprime $ 0}' iacta
+head: $> head -n 3 iacta | tail -n 3
