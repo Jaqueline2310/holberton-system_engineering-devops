@@ -1,2 +1,2 @@
 #!/bin/bash
-tr ' '-~ 32-126 | gr ' '-~ 32-126 
+(str_rot13(base64_decode("my string")))
