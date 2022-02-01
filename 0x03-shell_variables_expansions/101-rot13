@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'my string' | base64 --decode
+tr ' ''-~ 32-126'
