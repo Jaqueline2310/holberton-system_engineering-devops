@@ -1,2 +1,2 @@
 #!/bin/bash
-export PATH="$snap/bin:$PATH"
+PATH=$PATH:~/opt/action
