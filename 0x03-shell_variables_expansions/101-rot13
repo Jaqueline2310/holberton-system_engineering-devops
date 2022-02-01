@@ -1,2 +1,2 @@
 #!/bin/bash
-(str_rot13(base64_decode("my string")))
+echo 'my string' | base64 --decode
